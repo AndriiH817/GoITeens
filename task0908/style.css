@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: rgb(255,0,0);
+}
+h2 {
+    color: rgb(0, 130, 0);
+}
+ol{
+    color:rgb(255, 0, 0);
+}
+ol b{
+    font-size: 20px;
+}
+ol i{
+    color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+p {
+    line-height: 2;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 9px;
+}
+p b{
+    font-size: 20px;
+    color:rgb(255, 0, 0)
+}
+p i{
+    color: blue;
+    font-weight: bold;
+}
+ul{
+    font-style: italic;
+    color: rgb(146, 72, 99)
+}
+ul b{
+    font-size: 20px;
+    color: rgb(255, 0, 0)
+}
+
